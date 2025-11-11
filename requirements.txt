@@ -1,0 +1,2 @@
+# No external libraries required
+# Works with Python 3.8 or higher
